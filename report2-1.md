@@ -1,4 +1,4 @@
-#Report 2-2
+# Report 2-2
 ```
 void setup() {
   size(800, 300);
