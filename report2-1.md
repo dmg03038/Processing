@@ -1,5 +1,5 @@
 # Report 2-1
-```
+```pde
 void setup() {
   size(800, 300);
   textSize(50);
