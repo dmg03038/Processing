@@ -1,4 +1,4 @@
-###cute little Shocked Face
+### cute little Shocked Face
 ```pde
 background(255);
 fill(147, 87, 42);
